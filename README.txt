@@ -1,2 +1,2 @@
-Si la scène 3D ne se charge pas immédiatement
-Chargez la SampleScene dans le dossier Assets - Scenes - SampleScene.unity
+If the Scene doesn't load right away
+Load the SampleScene located in Assets - Scenes - SampleScene.unity
