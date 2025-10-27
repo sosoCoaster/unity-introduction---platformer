@@ -1,0 +1,4 @@
+repository "PlatformerCameraUISound/PlatformerCameraUISound@1374432974648@cloud"
+  path "/"
+    br "/main"
+    co "/main"
